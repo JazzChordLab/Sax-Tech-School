@@ -8,7 +8,7 @@
 
 ## Skala instrumentu
 
-  Skala dźwięków saksofonu obejmuje dwie i dwie trzecie oktawy, mieszcząc się w przedziale od **Ais3/Bes3** do **Fis6/Gis6**, co stanowi typowy zakres instrumentu w praktyce edukacyjnej i koncertowej. Należy podkreślić, że możliwe jest granie dźwięków powyżej Fis6 dzięki technice **altissimo**, jednak w niniejszym materiale omawiany i prezentowany będzie wyłącznie podstawowy zakres skali.
+  Skala dźwięków saksofonu obejmuje dwie i dwie trzecie oktawy, mieszcząc się w przedziale od **Ais3** do **Fis6**, co stanowi typowy zakres instrumentu w praktyce edukacyjnej i koncertowej. Należy podkreślić, że możliwe jest granie dźwięków powyżej Fis6 dzięki technice **altissimo**, jednak w niniejszym materiale omawiany i prezentowany będzie wyłącznie podstawowy zakres skali.
 
 ![Skala instrumentu](assets/svg/skala_instrumentu.svg)
 
