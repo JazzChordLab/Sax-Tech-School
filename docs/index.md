@@ -1,7 +1,10 @@
+---
+title: ""
+---
 <link rel="stylesheet" href="css/style.css">
 <!-- index.md -->
 
-![Sax-Tech](assets/svg/sax_tech.svg)
+![Logo Sax-Tech](assets/svg/sax_tech.svg)
 
 1. [Wprowadzenie](wprowadzenie.md)
 2. [Rozdział I – Ćwiczenia wstępne](rozdzial_1.md)
