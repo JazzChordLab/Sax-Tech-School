@@ -1,0 +1,27 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .header { font: bold 20px sans-serif; fill: #1e88e5; }
+    .data { font: 18px sans-serif; fill: #000000; }
+    .line { stroke: #cccccc; stroke-width: 1; }
+  </style>
+
+  <text x="50" y="40" class="header">Polski system</text>
+  <text x="350" y="40" class="header">Międzynarodowy system</text>
+
+  <line x1="10" y1="60" x2="590" y2="60" class="line" />
+
+  <text x="50" y="90" class="data">H </text>
+  <text x="350" y="90" class="data">B</text>
+  <line x1="10" y1="100" x2="590" y2="100" class="line" />
+
+  <text x="50" y="130" class="data">B-dur</text>
+  <text x="350" y="130" class="data">B♭ Major</text>
+  <line x1="10" y1="140" x2="590" y2="140" class="line" />
+
+  <text x="50" y="170" class="data">H-dur</text>
+  <text x="350" y="170" class="data">B Major</text>
+  <line x1="10" y1="180" x2="590" y2="180" class="line" />
+
+  <line x1="300" y1="10" x2="300" y2="190" class="line" />
+</svg>
