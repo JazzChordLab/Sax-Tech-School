@@ -15,8 +15,15 @@ h1, h2 {
 /* Wyjustowane akapity */
 p {
   text-align: justify;
-  text-indent: 2em;   /* wcięcie pierwszej linii */
+  text-indent: 1.5em; /* wcięcie pierwszej linii */
   margin: 1em 0;      /* odstęp między akapitami */
+}
+
+/* Bez wcięcia bezpośrednio po nagłówku */
+h1 + p,
+h2 + p,
+h3 + p {
+  text-indent: 0;
 }
 
 /* Nagłówki – trochę ładniejsze */
