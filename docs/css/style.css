@@ -8,20 +8,29 @@
   --shadow: 0 12px 30px rgba(0,0,0,0.08);
 }
 
+html {
+  background: radial-gradient(circle at 20% 20%, #f0f4ff, #f6f8fb 45%), radial-gradient(circle at 80% 0%, #f1fff9, #f6f8fb 40%);
+  min-height: 100%;
+}
+
 body {
   font-family: "Merriweather", Georgia, "Times New Roman", serif;
   color: var(--text);
-  background: radial-gradient(circle at 20% 20%, #f0f4ff, #f6f8fb 45%), radial-gradient(circle at 80% 0%, #f1fff9, #f6f8fb 40%);
+  background: var(--card);
   max-width: 960px;
   margin: 2.5rem auto;
-  padding: 0;
+  padding: 2rem 2.25rem;
+  border-radius: 16px;
+  box-shadow: var(--shadow);
 }
 
 main, .page {
-  background: var(--card);
-  border-radius: 16px;
-  box-shadow: var(--shadow);
-  padding: 2rem 2.25rem;
+  max-width: 100%;
+  margin: 0 auto;
+  background: transparent;
+  padding: 0;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 h1, h2, h3 {
