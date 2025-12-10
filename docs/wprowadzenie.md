@@ -7,16 +7,15 @@
 
 ## Skala instrumentu
 
-  Skala dźwięków saksofonu obejmuje dwie i dwie trzecie oktawy, mieszcząc się w przedziale od <strong>Ais3/Bes3</strong> do <strong>Fis6/Gis6</strong>, co stanowi typowy zakres instrumentu w praktyce edukacyjnej i koncertowej. Należy podkreślić, że możliwe jest granie dźwięków powyżej Fis6 dzięki technice <strong>altissimo</strong>, jednak w niniejszym materiale omawiany i prezentowany będzie wyłącznie podstawowy zakres skali.
+  Skala dźwięków saksofonu obejmuje dwie i dwie trzecie oktawy, mieszcząc się w przedziale od **Ais3/Bes3** do **Fis6/Gis6**, co stanowi typowy zakres instrumentu w praktyce edukacyjnej i koncertowej. Należy podkreślić, że możliwe jest granie dźwięków powyżej Fis6 dzięki technice **altissimo**, jednak w niniejszym materiale omawiany i prezentowany będzie wyłącznie podstawowy zakres skali.
 
 ![Skala instrumentu](assets/svg/skala_instrumentu.svg)
 
 ##  Nazewnictwo dźwięków i tonacji
 
-  W niniejszym materiale stosuję międzynarodowy system oznaczania dźwięków i tonacji, w którym <strong>B</strong> oznacza polski dźwięk <strong>H</strong>, tonacja <strong>B-dur</strong> odpowiada <strong>B♭ Major</strong>, a tonacja <strong>H-dur — B Major</strong>. Znajomość tego systemu jest kluczowa przy czytaniu międzynarodowych fake booków, transkrypcji jazzowych oraz w pracy z muzykami spoza Europy Środkowej. I w świecie saksofonu jazzowego jest to absolutny, niepodważalny standard.
+  W niniejszym materiale stosuję międzynarodowy system oznaczania dźwięków i tonacji, w którym **B** oznacza polski dźwięk **H**, tonacja **B-dur** odpowiada **B♭ Major**, a tonacja **H-dur — B Major**. Znajomość tego systemu jest kluczowa przy czytaniu międzynarodowych fake booków, transkrypcji jazzowych oraz w pracy z muzykami spoza Europy Środkowej. I w świecie saksofonu jazzowego jest to absolutny, niepodważalny standard.
 
 ![Nazewnictwo dźwięków i tonacji](assets/svg/notacja_muzyczna.svg)
-
 
 ## Ćwiczenia wstępne
 
