@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="css/style.css">
 <!-- wprowadzenie.md -->
 
+# Wprowadzenie
+
   Celem niniejszej Szkoły jest systematyczne opanowanie techniki gry na saksofonie. Zawarty tu materiał obejmuje najważniejsze zagadnienia techniczne przedstawione w formie uporządkowanych ćwiczeń, podzielonych na rozdziały odpowiadające kolejnym etapom kształcenia muzycznego.
 
   Ćwiczenia te należy traktować jako podstawę codziennej pracy. Powinny być one powtarzane regularnie, w zależności od indywidualnych potrzeb i zauważonych braków technicznych. Zaleca się wykonywanie ich w różnych tonacjach oraz stosowanie zróżnicowanych wariantów rytmicznych, aby w pełni rozwijać precyzję, elastyczność i biegłość gry.
@@ -18,7 +20,3 @@
   W niniejszym materiale stosuję międzynarodowy system oznaczania dźwięków i tonacji, w którym **B** oznacza polski dźwięk **H**, tonacja **B-dur** odpowiada **B♭ Major**, a tonacja **H-dur — B Major**. Znajomość tego systemu jest kluczowa przy czytaniu międzynarodowych fake booków, transkrypcji jazzowych oraz w pracy z muzykami spoza Europy Środkowej. I w świecie saksofonu jazzowego jest to absolutny, niepodważalny standard.
 
 ![Nazewnictwo dźwięków i tonacji](assets/svg/notacja_muzyczna.svg)
-
-## Ćwiczenia wstępne
-
-  Ćwiczenia wstępne przygotowują do gry, kształcąc kontrolę oddechu, jakość dźwięku oraz podstawową koordynację palców. Stanowią solidny fundament dla wszystkich kolejnych ćwiczeń technicznych.

@@ -2,7 +2,7 @@
 <svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
 
   <style>
-    .header { font: bold 20px sans-serif; fill: #66d603; }
+    .header { font: bold 20px sans-serif; fill: #0d5800; }
     .data { font: 18px sans-serif; fill: #000000; }
     .line { stroke: #cccccc; stroke-width: 1; }
   </style>

@@ -1,10 +1,12 @@
+/* <!-- style.css --> */
+
 :root {
   --bg: #f6f8fb;
   --card: #ffffff;
   --text: #1f2933;
   --muted: #5f6b76;
   --accent: #0066cc;
-  --accent-2: #00b3a4;
+  --accent-2: #0e87eb;
   --shadow: 0 12px 30px rgba(0,0,0,0.08);
 }
 
@@ -42,6 +44,7 @@ h1, h2, h3 {
 h1 { font-size: 2.2rem; }
 h2 { font-size: 1.6rem; }
 h3 { font-size: 1.3rem; }
+h1 { text-align: center; }
 
 p {
   text-align: justify;
